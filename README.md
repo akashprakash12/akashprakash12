@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![My Intro GIF](https://giphy.com/gifs/3d-physics-math-4TbivGhf5P7xpufbHW)
 <!--
 **akashprakash12/akashprakash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
