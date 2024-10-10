@@ -1,7 +1,7 @@
 # Hi there, I'm Akash 👋
 
 <div align="center">
-  <img src="ladybug-5068_256.gif" alt="My Intro GIF" />
+  <img src="[ladybug-5068_256.gif](https://github.com/akashprakash12/3dmodel/blob/main/ladybug-5068_256.gif)" alt="My Intro GIF" />
 </div>
 
 I’m a Software Developer who loves crafting innovative solutions and diving into the world of open-source projects and web development. I thrive on turning ideas into reality and am always excited to learn and collaborate!
