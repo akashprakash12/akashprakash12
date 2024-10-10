@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=akashprakash12&theme=tokyo-night)
 
 [View 3D Model ](https://github.com/akashprakash12/3dmodel/blob/main/prins_jellyfish-converted-ASCII.stl)
