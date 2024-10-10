@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+
 ![My Intro GIF](https://giphy.com/gifs/3d-physics-math-4TbivGhf5P7xpufbHW)
 <!--
 **akashprakash12/akashprakash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+
