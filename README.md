@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Akash 👋
 
+<div align="center">
+  <img src="ladybug-5068_256.gif" alt="My Intro GIF" />
+</div>
 
-![My Intro GIF](https://giphy.com/gifs/3d-physics-math-4TbivGhf5P7xpufbHW)
+I’m a Software Developer who loves crafting innovative solutions and diving into the world of open-source projects and web development. I thrive on turning ideas into reality and am always excited to learn and collaborate!
 <!--
 **akashprakash12/akashprakash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
