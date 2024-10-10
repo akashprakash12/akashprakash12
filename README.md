@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
 
 ![My Intro GIF](https://giphy.com/gifs/3d-physics-math-4TbivGhf5P7xpufbHW)
 <!--
@@ -18,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[View 3D Model ](https://github.com/akashprakash12/3dmodel/blob/main/prins_jellyfish-converted-ASCII.stl)
