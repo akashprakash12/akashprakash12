@@ -5,21 +5,19 @@
 </div>
 
 I’m a Software Developer who loves crafting innovative solutions and diving into the world of open-source projects and web development. I thrive on turning ideas into reality and am always excited to learn and collaborate!
-<!--
-**akashprakash12/akashprakash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- ![](https://github-readme-stats.vercel.app/api?username=akashprakash12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+- 🌱 I’m currently learning react
+- 👯 I’m looking to collaborate on three js
+- 🤔 I’m looking for help with [Any Areas You Need Help With]
+- 💬 Ask me about [Topics You’re Knowledgeable About]
+
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashprakash12&show_icons=true&theme=dark)
+
+<br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=akashprakash12&theme=tokyonight&hide_border=false)<br/>
    ![](https://github-readme-activity-graph.vercel.app/graph?username=akashprakash12&theme=tokyo-night)
 
