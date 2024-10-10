@@ -17,6 +17,7 @@ I’m a Software Developer who loves crafting innovative solutions and diving in
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashprakash12&show_icons=true&theme=dark)
 
+ ![](https://github-readme-stats.vercel.app/api?username=akashprakash12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=akashprakash12&theme=tokyonight&hide_border=false)<br/>
    ![](https://github-readme-activity-graph.vercel.app/graph?username=akashprakash12&theme=tokyo-night)
