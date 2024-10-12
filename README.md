@@ -37,11 +37,11 @@ I’m a Software Developer who loves crafting innovative solutions and diving in
    
   </picture>
   </div> -->
-<div class="img">
+<p align="center">
    <img  alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  width="500" >
-</div>
+</p>
 
-![akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashprakash12&show_icons=true&theme=tokyonight)
+![akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashprakash12&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashprakash12&layout=donut)](https://github.com/akashprakash12/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akashprakash12&theme=tokyonight&hide_border=false)<br/>
