@@ -63,19 +63,5 @@ I’m a Software Developer who loves crafting innovative solutions and diving in
 
 
 
-<style>
-  @media (max-width: 600px) {
-    div {
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-  }
-  .img{
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom:20px;
-  }
-</style>
+
 
