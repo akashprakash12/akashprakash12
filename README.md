@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm akash</h1>
 
-# Just a fun,but a passionate one ☕︎
+ <h1 align="center" style="color:Aqua" >Just a fun,but a passionate one :coffee:  </h1> 
 
 ## 🌍 About Me
 - 🌱 I’m currently learning react three fiber
