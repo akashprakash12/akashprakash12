@@ -6,8 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm akash</h1>
 
-
-I’m a Software Developer who loves crafting innovative solutions and diving into the world of open-source projects and web development. I thrive on turning ideas into reality and am always excited to learn and collaborate!
+#Just a fun,but a passionate one ☕︎
 
 ## 🌍 About Me
 - 🌱 I’m currently learning react three fiber
