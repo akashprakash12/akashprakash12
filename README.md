@@ -54,7 +54,7 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uveaid35xeihv6hw6zxw5cnnky)
 
 
-[View 3D Model ](https://github.com/akashprakash12/3dmodel/blob/main/prins_jellyfish-converted-ASCII.stl)
+#[View 3D Model ](https://github.com/akashprakash12/3dmodel/blob/main/prins_jellyfish-converted-ASCII.stl)
 
 
 
