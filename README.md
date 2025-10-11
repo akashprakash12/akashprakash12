@@ -59,33 +59,25 @@
 
 </div>
 
-# 💻 Tech Stack:
+## 💻 My Coding Journey
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-right:20px; ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
-   
-  </picture>
-  </div>
-<p align="center">
-   <img  alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  width="500" >
-</p>
-
-
-
+<div align="center">
+ 
 ![akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashprakash12&show_icons=true&theme=tokyonight)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashprakash12&layout=donut&theme=tokyonight)](https://github.com/akashprakash12/github-readme-stats)
 
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=akashprakash12&theme=tokyonight&hide_border=false)<br/>
+## 📈 Activity & Contributions
+
+<div align="center">
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=akashprakash12&theme=tokyo-night)
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
+<div>
 
 ## 🎾 Hobbies & Interests
 <div align="center">
