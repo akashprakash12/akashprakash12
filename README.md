@@ -53,6 +53,8 @@
 ## hobbies
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uveaid35xeihv6hw6zxw5cnnky)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 #[View 3D Model ](https://github.com/akashprakash12/3dmodel/blob/main/prins_jellyfish-converted-ASCII.stl)
 
