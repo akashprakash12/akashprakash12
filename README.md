@@ -46,6 +46,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akashprakash12&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=akashprakash12&theme=tokyo-night)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
@@ -53,7 +54,6 @@
 ## hobbies
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31uveaid35xeihv6hw6zxw5cnnky)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 #[View 3D Model ](https://github.com/akashprakash12/3dmodel/blob/main/prins_jellyfish-converted-ASCII.stl)
