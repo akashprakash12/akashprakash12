@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, I'm akash</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8DA59&width=435&lines=Just+a+fun,+but+a+passionate+one+☕;Full+Stack+Developer+💻" alt="Typing SVG" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8DA59&width=435&lines=Just+a+fun%2C+but+a+passionate+one+%E2%98%95;Full+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 </p>
 
 ## 🌍 About Me
