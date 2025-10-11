@@ -27,18 +27,29 @@ jobs:
               "theme": "night_rainbow"
             }
 
-      # Step 3: Add random quote to README
+      # Step 3: Generate Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
+
+      # Step 4: Copy snake animation to root
+      - name: Move Snake Animation
+        run: |
+          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+
+      # Step 5: Add random quote to README
       - name: Add Daily Quote
         run: |
           QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content + " — " + .author')
           sed -i '/<!--QUOTE-->/c\> 💬 Quote of the day: '"$QUOTE" README.md
 
-      # Step 4: Commit and push if changes exist
-        shell: bash
+      # Step 6: Commit and push if changes exist
       - name: Commit & Push Changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "🔄 Auto update profile (3D + quote + stats)"
+          git diff-index --quiet HEAD || git commit -m "🔄 Auto update profile (3D + snake + quote + stats)"
           git push
