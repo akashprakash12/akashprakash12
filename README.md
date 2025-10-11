@@ -46,7 +46,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akashprakash12&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=akashprakash12&theme=tokyo-night)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
